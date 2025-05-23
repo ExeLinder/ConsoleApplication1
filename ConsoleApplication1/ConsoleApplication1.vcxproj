@@ -23,7 +23,6 @@
     <ClInclude Include="Write.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Read.cpp" />
     <ClCompile Include="Write.cpp" />
   </ItemGroup>
